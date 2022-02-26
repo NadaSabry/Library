@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/95171238/154790012-7aa18267-782a-4aae-ac89-5fd3d32f68a2.png)
 
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
 <p align="left">
  <a href="https://www.tutorialspoint.com/What-is-Cplusplus-programming-language" target="_blank" rel="noreferrer"> <img                                        src="https://tse4.mm.bing.net/th/id/OIF.pbpcc4hdchahgJSplmuohQ?pid=ImgDet&rs=1" alt="c++" width="60" height="65" float="left"/></a>
@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left">Connect with Us:</h3>
+## Connect with Us: 
 
 <p align="left">
 <a href="https://codeforces.com/profile/Solver_-_NaDooDa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saytara" height="30" width="40" /></a>
