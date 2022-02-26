@@ -9,6 +9,25 @@
 ![image](https://user-images.githubusercontent.com/95171238/154790012-7aa18267-782a-4aae-ac89-5fd3d32f68a2.png)
 
 
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+ <a href="https://www.tutorialspoint.com/What-is-Cplusplus-programming-language" target="_blank" rel="noreferrer"> <img                                        src="https://tse4.mm.bing.net/th/id/OIF.pbpcc4hdchahgJSplmuohQ?pid=ImgDet&rs=1" alt="c++" width="60" height="65" float="left"/></a>
+           <a href="" target="_blank" rel="noreferrer"> <img src="https://tse2.mm.bing.net/th/id/OIP.i_kQqKnys7F6MiBqlhF2bAHaHa?pid=ImgDet&rs=1" alt="c++" width="70"                        height="65"/></a>
+</p>
+
+
+
+<h3 align="left">Connect with Us:</h3>
+
+<p align="left">
+<a href="https://codeforces.com/profile/Solver_-_NaDooDa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saytara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/mwlite/in/nada-sabry-62668b232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed hany" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nada.sabri.9849/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed hany" height="30" width="40" /></a>
+</p>
+
+
+
 ## Authors
 
 * **Nada Sabry**
